@@ -1,0 +1,2 @@
+# herencia
+Ejercicio de herencia
